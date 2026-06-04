@@ -43,6 +43,7 @@ Wildberries, Ozon, Яндекс Маркет — настроим карточк
 
 Готовы обсудить ваш проект? Напишите нам на емейл.
 
+- 🌐 [rokkat.ru](https://rokkat.ru)
 - 🌍 [GitHub](https://github.com/)
 - 📧 infokassa@rokkat.ru
 
